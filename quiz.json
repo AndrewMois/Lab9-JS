@@ -1,5 +1,5 @@
 {
-    "quiz": {
+
         "questions": [
             {
                 "topic": "Sport",
@@ -36,4 +36,3 @@
             }
         ]
     }
-}
